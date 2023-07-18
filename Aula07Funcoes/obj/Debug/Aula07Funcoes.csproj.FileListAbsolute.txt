@@ -1,0 +1,10 @@
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.exe.config
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.exe
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.pdb
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.Properties.Resources.resources
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.GenerateResource.cache
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.exe
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.pdb
+C:\Users\miltom.snascimento\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.Form1.resources
